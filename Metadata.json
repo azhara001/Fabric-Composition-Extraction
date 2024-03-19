@@ -7,7 +7,6 @@
             "rayon": 70.0
         },
         "composition_raw_text": "DESCR: 70%RAY 25%POLY  5%SPAN VISCOSE CREPE W/THIN STRIPE 58/60\"",
-        "description": "70%RAY 25%POLY  5%SPAN VISCOSE CREPE W/THIN STRIPE 58/60\"",
         "composition_flag": "DESCR:"
     },
     {
@@ -18,7 +17,6 @@
             "rayon": 68.0
         },
         "composition_raw_text": "DESCR: 68%RAY 29%POLY  3%SPAN VISCOSE CREPE W/THIN STRIPE 58/60\"",
-        "description": "68%RAY 29%POLY  3%SPAN VISCOSE CREPE W/THIN STRIPE 58/60\"",
         "composition_flag": "DESCR:"
     },
     {
@@ -27,7 +25,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -36,7 +33,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -45,7 +41,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -54,7 +49,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -63,7 +57,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -72,7 +65,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -82,7 +74,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "DESCR: 97% COTTON 3% SPANDEX STRETCH COTTON POPLIN SOLID 57/58\"",
-        "description": "97% COTTON 3% SPANDEX STRETCH COTTON POPLIN SOLID 57/58\"",
         "composition_flag": "DESCR:"
     },
     {
@@ -93,7 +84,6 @@
             "tencel": 49.0
         },
         "composition_raw_text": "Content: 49% Cotton 49% Lyocell 2% Spandex",
-        "description": "49% Cotton 49% Lyocell 2% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -103,7 +93,6 @@
             "polyester": 40.5
         },
         "composition_raw_text": "Content: 59.5% Cotton 40.5% Polyester",
-        "description": "59.5% Cotton 40.5% Polyester",
         "composition_flag": "Content:"
     },
     {
@@ -113,7 +102,6 @@
             "tencel": 33.0
         },
         "composition_raw_text": "Content: 67% Cotton 33% Lyocell ",
-        "description": "67% Cotton 33% Lyocell ",
         "composition_flag": "Content:"
     },
     {
@@ -123,7 +111,6 @@
             "polyester": 8.0
         },
         "composition_raw_text": "Content: 92% Cotton 8% Polyester ",
-        "description": "92% Cotton 8% Polyester ",
         "composition_flag": "Content:"
     },
     {
@@ -133,7 +120,6 @@
             "elastane": 35.0
         },
         "composition_raw_text": "Content: 65% Polyester 35% Lyocell",
-        "description": "65% Polyester 35% Lyocell",
         "composition_flag": "Content:"
     },
     {
@@ -144,7 +130,6 @@
             "tencel": 67.0
         },
         "composition_raw_text": "Content: 67% Lyocell 29% Cotton 4% Spandex",
-        "description": "67% Lyocell 29% Cotton 4% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -155,7 +140,6 @@
             "tencel": 58.0
         },
         "composition_raw_text": "Content: 58% Lyocell 39% Plma 3% Spandex",
-        "description": "58% Lyocell 39% Plma 3% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -166,7 +150,6 @@
             "tencel": 34.47
         },
         "composition_raw_text": "Content: 64.03% Plma 34.48% Lyocell 1.5% Spandex",
-        "description": "64.03% Plma 34.48% Lyocell 1.5% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -176,7 +159,6 @@
             "rayon": 52.0
         },
         "composition_raw_text": "DESCR: 48%NYL 52%RAY CIRO COMPACT NYLON SPAN JERSEY 62/63\"",
-        "description": "48%NYL 52%RAY CIRO COMPACT NYLON SPAN JERSEY 62/63\"",
         "composition_flag": "DESCR:"
     },
     {
@@ -186,7 +168,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "DESCR: 96%COTTON 4%SPANDEX JERSEY SOLID [10 OZ ] 58/60\"",
-        "description": "96%COTTON 4%SPANDEX JERSEY SOLID [10 OZ ] 58/60\"",
         "composition_flag": "DESCR:"
     },
     {
@@ -195,7 +176,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Content: 100% Recycled Polyester",
-        "description": "100% Recycled Polyester",
         "composition_flag": "Content:"
     },
     {
@@ -205,7 +185,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "COMP. 97%CO 3%EA",
-        "description": "97%CO 3%EA",
         "composition_flag": "COMP."
     },
     {
@@ -214,7 +193,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Comp: 100%Polyester",
-        "description": "100%Polyester",
         "composition_flag": "Comp:"
     },
     {
@@ -223,7 +201,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition 100%CO",
-        "description": "100%CO",
         "composition_flag": "Composition"
     },
     {
@@ -233,7 +210,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition 97%CO-3%EA",
-        "description": "97%CO-3%EA",
         "composition_flag": "Composition"
     },
     {
@@ -242,7 +218,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100% N",
-        "description": "100% N",
         "composition_flag": "Shell"
     },
     {
@@ -251,7 +226,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100% N",
-        "description": "100% N",
         "composition_flag": "Shell"
     },
     {
@@ -260,7 +234,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%Nylon",
-        "description": "100%Nylon",
         "composition_flag": "Shell"
     },
     {
@@ -270,7 +243,6 @@
             "nylon": 93.0
         },
         "composition_raw_text": "Shell 93%N 7%P",
-        "description": "93%N 7%P",
         "composition_flag": "Shell"
     },
     {
@@ -279,7 +251,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell 100%P",
-        "description": "100%P",
         "composition_flag": "Shell"
     },
     {
@@ -288,7 +259,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell 100%Poly",
-        "description": "100%Poly",
         "composition_flag": "Shell"
     },
     {
@@ -300,7 +270,6 @@
             "tencel": 70.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 70% Cotton 20% Poliester Strech (Lycra T-400) 7% Lycra (Elastane) 3%",
-        "description": "Lenzing \u2122 Lyocell 70% Cotton 20% Poliester Strech (Lycra T-400) 7% Lycra (Elastane) 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -310,7 +279,6 @@
             "polyester": 33.0
         },
         "composition_raw_text": "Composition: Cotton 67% Polyester 33%",
-        "description": "Cotton 67% Polyester 33%",
         "composition_flag": "Composition:"
     },
     {
@@ -319,7 +287,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell 100% Recycled P",
-        "description": "100% Recycled P",
         "composition_flag": "Shell"
     },
     {
@@ -328,7 +295,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell 100%P",
-        "description": "100%P",
         "composition_flag": "Shell"
     },
     {
@@ -337,7 +303,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell: 100%Poly",
-        "description": "100%Poly",
         "composition_flag": "Shell:"
     },
     {
@@ -348,7 +313,6 @@
             "tencel": 37.0
         },
         "composition_raw_text": "Composition: Cotton 60% Lenzing \u2122 Lyocell 37% Elastane 3%",
-        "description": "Cotton 60% Lenzing \u2122 Lyocell 37% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -358,7 +322,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 96/4",
-        "description": "Poly/Spandex 96/4",
         "composition_flag": "COMP:"
     },
     {
@@ -368,7 +331,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 95/5",
-        "description": "Poly/Spandex 95/5",
         "composition_flag": "COMP:"
     },
     {
@@ -377,7 +339,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "COMP: 100% Poly",
-        "description": "100% Poly",
         "composition_flag": "COMP:"
     },
     {
@@ -387,7 +348,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 95/5",
-        "description": "Poly/Spandex 95/5",
         "composition_flag": "COMP:"
     },
     {
@@ -397,7 +357,6 @@
             "elastane": 9.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 91/9",
-        "description": "Poly/Spandex 91/9",
         "composition_flag": "COMP:"
     },
     {
@@ -407,7 +366,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 92/8",
-        "description": "Poly/Spandex 92/8",
         "composition_flag": "COMP:"
     },
     {
@@ -416,7 +374,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "COMP: 100%Poly",
-        "description": "100%Poly",
         "composition_flag": "COMP:"
     },
     {
@@ -426,7 +383,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 95/5",
-        "description": "Poly/Spandex 95/5",
         "composition_flag": "COMP:"
     },
     {
@@ -436,7 +392,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 90/10",
-        "description": "Poly/Spandex 90/10",
         "composition_flag": "COMP:"
     },
     {
@@ -446,7 +401,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "COMPOSITION: CO/EL 96/4 / G.DYED",
-        "description": "CO/EL 96/4 / G.DYED",
         "composition_flag": "COMPOSITION:"
     },
     {
@@ -455,7 +409,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality 100% Tanguis Cotton",
-        "description": "100% Tanguis Cotton",
         "composition_flag": "Quality"
     },
     {
@@ -465,7 +418,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CO-1%EA",
-        "description": "99%CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -475,7 +427,6 @@
             "tencel": 65.0
         },
         "composition_raw_text": "Composition: Tencel 65% Cotton 35%",
-        "description": "Tencel 65% Cotton 35%",
         "composition_flag": "Composition:"
     },
     {
@@ -486,7 +437,6 @@
             "tencel": 22.0
         },
         "composition_raw_text": "Composition: Cotton 77% Lenzing \u2122 Lyocell 22% Elastane 1%",
-        "description": "Cotton 77% Lenzing \u2122 Lyocell 22% Elastane 1%",
         "composition_flag": "Composition:"
     },
     {
@@ -496,7 +446,6 @@
             "polyester": 35.0
         },
         "composition_raw_text": "Quality: 65% Tanguis Cotton, 35% Plyester",
-        "description": "65% Tanguis Cotton, 35% Plyester",
         "composition_flag": "Quality:"
     },
     {
@@ -505,7 +454,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Quality:"
     },
     {
@@ -514,7 +462,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition 100%CO",
-        "description": "100%CO",
         "composition_flag": "Composition"
     },
     {
@@ -524,7 +471,6 @@
             "elastane": 12.0
         },
         "composition_raw_text": "COMP: Poly/Spandex 88/12",
-        "description": "Poly/Spandex 88/12",
         "composition_flag": "COMP:"
     },
     {
@@ -533,7 +479,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: Cotton 100%",
-        "description": "Cotton 100%",
         "composition_flag": "Composition:"
     },
     {
@@ -542,7 +487,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality 100% Pima Cotton",
-        "description": "100% Pima Cotton",
         "composition_flag": "Quality"
     },
     {
@@ -552,7 +496,6 @@
             "rayon": 35.0
         },
         "composition_raw_text": "CONTENT: 65%POLYESTER 35%RAYON",
-        "description": "65%POLYESTER 35%RAYON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -563,7 +506,6 @@
             "tencel": 75.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 75% Cotton 23% Lycra (Elastane) 2%",
-        "description": "Lenzing \u2122 Lyocell 75% Cotton 23% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -572,7 +514,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "COMP: 100%Poly",
-        "description": "100%Poly",
         "composition_flag": "COMP:"
     },
     {
@@ -581,7 +522,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -590,7 +530,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%ORGANIC COTTON",
-        "description": "100%ORGANIC COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -599,7 +538,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: Cotton 100%",
-        "description": "Cotton 100%",
         "composition_flag": "Composition:"
     },
     {
@@ -610,7 +548,6 @@
             "modal": 46.0
         },
         "composition_raw_text": "COMP: Modal/Pima Cotton/Spandex 46/46/8",
-        "description": "Modal/Pima Cotton/Spandex 46/46/8",
         "composition_flag": "COMP:"
     },
     {
@@ -619,7 +556,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -628,7 +564,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%ORGANIC COTTON",
-        "description": "100%ORGANIC COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -639,7 +574,6 @@
             "viscose": 17.0
         },
         "composition_raw_text": "Composition: Algodon Reciclado PRE 35% Lana reciclada PRE 20% Lenzing Viscose EV 17% Poliester 14% Poliester Reciclado POST 7% Lenzing Lyocell 6% Elastane 1% ",
-        "description": "Algodon Reciclado PRE 35% Lana reciclada PRE 20% Lenzing Viscose EV 17% Poliester 14% Poliester Reciclado POST 7% Lenzing Lyocell 6% Elastane 1% ",
         "composition_flag": "Composition:"
     },
     {
@@ -649,7 +583,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "COMP: Cotton/Spandex 95/5",
-        "description": "Cotton/Spandex 95/5",
         "composition_flag": "COMP:"
     },
     {
@@ -660,7 +593,6 @@
             "modal": 52.5
         },
         "composition_raw_text": "Content: 52.5% Modal 41.5% Cotton 6% Spandex",
-        "description": "52.5% Modal 41.5% Cotton 6% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -669,7 +601,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality: 100%COTTON 8/4 X 2 ENDS",
-        "description": "100%COTTON 8/4 X 2 ENDS",
         "composition_flag": "Quality:"
     },
     {
@@ -679,7 +610,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Content: 97% Pima 3% Spandex ",
-        "description": "97% Pima 3% Spandex ",
         "composition_flag": "Content:"
     },
     {
@@ -690,7 +620,6 @@
             "viscose": 47.5
         },
         "composition_raw_text": "Content: 47.5% Cotton 5% Spandex 47.5% Viscose",
-        "description": "47.5% Cotton 5% Spandex 47.5% Viscose",
         "composition_flag": "Content:"
     },
     {
@@ -699,7 +628,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Content: 100% Recycled Polyester",
-        "description": "100% Recycled Polyester",
         "composition_flag": "Content:"
     },
     {
@@ -708,7 +636,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: Cotton 100%",
-        "description": "Cotton 100%",
         "composition_flag": "Composition:"
     },
     {
@@ -719,7 +646,6 @@
             "tencel": 33.25
         },
         "composition_raw_text": "Content: 61.75% Pima 33.25% Lyocell 5% Spandex",
-        "description": "61.75% Pima 33.25% Lyocell 5% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -729,7 +655,6 @@
             "tencel": 86.0
         },
         "composition_raw_text": "Content: 14% Spandex 86% Tencel",
-        "description": "14% Spandex 86% Tencel",
         "composition_flag": "Content:"
     },
     {
@@ -740,7 +665,6 @@
             "tencel": 78.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 78% Cotton 20% Lycra (Elastane) 2%",
-        "description": "Lenzing \u2122 Lyocell 78% Cotton 20% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -750,7 +674,6 @@
             "polyester": 33.0
         },
         "composition_raw_text": "Composition: Cotton 67% Polyester 33%",
-        "description": "Cotton 67% Polyester 33%",
         "composition_flag": "Composition:"
     },
     {
@@ -760,7 +683,6 @@
             "tencel": 50.0
         },
         "composition_raw_text": "Content: 50% Cotton 50% Lyocell",
-        "description": "50% Cotton 50% Lyocell",
         "composition_flag": "Content:"
     },
     {
@@ -770,7 +692,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 98% Lycra (Elastane) 2%",
-        "description": "Cotton 98% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -780,7 +701,6 @@
             "elastane": 13.0
         },
         "composition_raw_text": "CONTENT(%): PES/SPX 87/13",
-        "description": "PES/SPX 87/13",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -790,7 +710,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton 97% Elastane 3%",
-        "description": "Cotton 97% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -800,7 +719,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "CONTENT(%): PES/SPX 95/5",
-        "description": "PES/SPX 95/5",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -810,7 +728,6 @@
             "nylon_6": 90.0
         },
         "composition_raw_text": "CONTENT(%): RE-N6/SPX 90/10",
-        "description": "RE-N6/SPX 90/10",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -820,7 +737,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "CONTENT(%): PES/SPX 90/10",
-        "description": "PES/SPX 90/10",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -831,7 +747,6 @@
             "nylon_6": 53.0
         },
         "composition_raw_text": "CONTENT(%): N6/PES/SPX 53/39/8",
-        "description": "N6/PES/SPX 53/39/8",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -840,7 +755,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -851,7 +765,6 @@
             "viscose": 16.0
         },
         "composition_raw_text": "Content: 45% Polyester 39% Cotton 16% Viscose",
-        "description": "45% Polyester 39% Cotton 16% Viscose",
         "composition_flag": "Content:"
     },
     {
@@ -862,7 +775,6 @@
             "tencel": 32.0
         },
         "composition_raw_text": "Content: 64% Cotton 32% Lyocell 4% Spandex",
-        "description": "64% Cotton 32% Lyocell 4% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -872,7 +784,6 @@
             "nylon_6": 85.0
         },
         "composition_raw_text": "CONTENT(%): RE-N6/SPX 85/15",
-        "description": "RE-N6/SPX 85/15",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -882,7 +793,6 @@
             "nylon_6": 86.0
         },
         "composition_raw_text": "CONTENT(%): RE-N6/SPX 86/14",
-        "description": "RE-N6/SPX 86/14",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -892,7 +802,6 @@
             "nylon_6": 47.0
         },
         "composition_raw_text": "CONTENT(%): PES/N6 53/47",
-        "description": "PES/N6 53/47",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -902,7 +811,6 @@
             "elastane": 1.3
         },
         "composition_raw_text": "Composition: %98.7 CO/%1.3 EA",
-        "description": "%98.7 CO/%1.3 EA",
         "composition_flag": "Composition:"
     },
     {
@@ -912,7 +820,6 @@
             "polyester": 20.0
         },
         "composition_raw_text": "Comp: 80%Cotton 20%Polyester",
-        "description": "80%Cotton 20%Polyester",
         "composition_flag": "Comp:"
     },
     {
@@ -921,7 +828,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "COMP: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "COMP:"
     },
     {
@@ -930,7 +836,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Comp: 100%Polyester",
-        "description": "100%Polyester",
         "composition_flag": "Comp:"
     },
     {
@@ -941,7 +846,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 52% Polyester 46% Elastane 2%",
-        "description": "Cotton 52% Polyester 46% Elastane 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -952,7 +856,6 @@
             "tencel": 30.0
         },
         "composition_raw_text": "Composition: Cotton 67% Lenzing \u2122 Lyocell 30% Elastane 3%",
-        "description": "Cotton 67% Lenzing \u2122 Lyocell 30% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -962,7 +865,6 @@
             "nylon": 94.0
         },
         "composition_raw_text": "COMP: nylon/spdx 94/6",
-        "description": "nylon/spdx 94/6",
         "composition_flag": "COMP:"
     },
     {
@@ -971,7 +873,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "COMP: 100%polyester",
-        "description": "100%polyester",
         "composition_flag": "COMP:"
     },
     {
@@ -981,7 +882,6 @@
             "polyester": 40.0
         },
         "composition_raw_text": "COMP: 60%cotton 40%poly",
-        "description": "60%cotton 40%poly",
         "composition_flag": "COMP:"
     },
     {
@@ -991,7 +891,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 98% Elastane 2%",
-        "description": "Cotton 98% Elastane 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1001,7 +900,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CO-1%EA",
-        "description": "99%CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1012,7 +910,6 @@
             "rayon": 72.0
         },
         "composition_raw_text": "Comp: 72%Rayon 24%Polyester 4%Spandex",
-        "description": "72%Rayon 24%Polyester 4%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1022,7 +919,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "Comp: 90%Polyester 10%Spandex",
-        "description": "90%Polyester 10%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1032,7 +928,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Comp: 95%Polyester 5%Spandex",
-        "description": "95%Polyester 5%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1042,7 +937,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CO-1%EA",
-        "description": "99%CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1052,7 +946,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition 98%CO-2%EA",
-        "description": "98%CO-2%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1062,7 +955,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: Cotton 99% Lycra (Elastane) 1%",
-        "description": "Cotton 99% Lycra (Elastane) 1%",
         "composition_flag": "Composition:"
     },
     {
@@ -1072,7 +964,6 @@
             "polyester": 40.0
         },
         "composition_raw_text": "Comp: 60%cotton 40%Polyster",
-        "description": "60%cotton 40%Polyster",
         "composition_flag": "Comp:"
     },
     {
@@ -1081,7 +972,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Comp: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "Comp:"
     },
     {
@@ -1091,7 +981,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 79%CO-20%RCY.CO-1%EA",
-        "description": "79%CO-20%RCY.CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1100,7 +989,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1110,7 +998,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition 98%CO-2%EA",
-        "description": "98%CO-2%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1120,7 +1007,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "Comp: 92%Polyester 8%Spandex",
-        "description": "92%Polyester 8%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1129,7 +1015,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Comp: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "Comp:"
     },
     {
@@ -1138,7 +1023,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% COTTON",
-        "description": "100% COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -1147,7 +1031,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% COTTON",
-        "description": "100% COTTON",
         "composition_flag": "CONTENT:"
     },
     {
@@ -1158,7 +1041,6 @@
             "tencel": 17.0
         },
         "composition_raw_text": "Content: 78%RPET 17%LYOCELL 5%SPANDEX",
-        "description": "78%RPET 17%LYOCELL 5%SPANDEX",
         "composition_flag": "Content:"
     },
     {
@@ -1168,7 +1050,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Content: 95% RECYCEL POLY 5%SAMPDEX",
-        "description": "95% RECYCEL POLY 5%SAMPDEX",
         "composition_flag": "Content:"
     },
     {
@@ -1178,7 +1059,6 @@
             "polyester": 25.0
         },
         "composition_raw_text": " 75% Cotton / 25% Polyester",
-        "description": "75% Cotton / 25% Polyester",
         "composition_flag": null
     },
     {
@@ -1188,7 +1068,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Comp: 95%Cotton 5%Spandex",
-        "description": "95%Cotton 5%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1197,7 +1076,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Comp: 100%Polyester",
-        "description": "100%Polyester",
         "composition_flag": "Comp:"
     },
     {
@@ -1208,7 +1086,6 @@
             "rayon": 4.0
         },
         "composition_raw_text": "Comp: 76%Cotton 20%Polyester 4%Rayon",
-        "description": "76%Cotton 20%Polyester 4%Rayon",
         "composition_flag": "Comp:"
     },
     {
@@ -1220,7 +1097,6 @@
             "rayon": 14.0
         },
         "composition_raw_text": "Comp: 44%Cotton 38%Polyester 14%Rayon 4%Spandex",
-        "description": "44%Cotton 38%Polyester 14%Rayon 4%Spandex",
         "composition_flag": "Comp:"
     },
     {
@@ -1229,7 +1105,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Comp: 100%Polyester",
-        "description": "100%Polyester",
         "composition_flag": "Comp:"
     },
     {
@@ -1239,7 +1114,6 @@
             "polyester": 33.5
         },
         "composition_raw_text": "COMP: 66.5%cotton33.5% poly",
-        "description": "66.5%cotton33.5% poly",
         "composition_flag": "COMP:"
     },
     {
@@ -1249,7 +1123,6 @@
             "polyester": 75.0
         },
         "composition_raw_text": "Comp: 75%Polyester 25%Cotton",
-        "description": "75%Polyester 25%Cotton",
         "composition_flag": "Comp:"
     },
     {
@@ -1258,7 +1131,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Comp: 100%Polyster",
-        "description": "100%Polyster",
         "composition_flag": "Comp:"
     },
     {
@@ -1268,7 +1140,6 @@
             "nylon": 8.0
         },
         "composition_raw_text": "COMP.: 92%Cotton 8%Nylon",
-        "description": "92%Cotton 8%Nylon",
         "composition_flag": "COMP.:"
     },
     {
@@ -1278,7 +1149,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "COMPOSITION: %97 CO %3 EA",
-        "description": "%97 CO %3 EA",
         "composition_flag": "COMPOSITION:"
     },
     {
@@ -1287,7 +1157,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "COMP. 100%CO",
-        "description": "100%CO",
         "composition_flag": "COMP."
     },
     {
@@ -1296,7 +1165,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -1305,7 +1173,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1315,7 +1182,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton P.Compak 97% Lycra (Elastane) 3%",
-        "description": "Cotton P.Compak 97% Lycra (Elastane) 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -1324,7 +1190,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "COMP. 100%CO",
-        "description": "100%CO",
         "composition_flag": "COMP."
     },
     {
@@ -1334,7 +1199,6 @@
             "polyester": 73.0
         },
         "composition_raw_text": "Comp: 73%Polyester 27%Cotton",
-        "description": "73%Polyester 27%Cotton",
         "composition_flag": "Comp:"
     },
     {
@@ -1343,7 +1207,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -1352,7 +1215,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Article/Content: \"Everyday\" 2/36nm 100% Cotton",
-        "description": "\"Everyday\" 2/36nm 100% Cotton",
         "composition_flag": "Article/Content:"
     },
     {
@@ -1362,7 +1224,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton 97% Elastane 3%",
-        "description": "Cotton 97% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -1372,7 +1233,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "COMPOSITION: CO/EL 97/3 / G.DYED",
-        "description": "CO/EL 97/3 / G.DYED",
         "composition_flag": "COMPOSITION:"
     },
     {
@@ -1382,7 +1242,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "CONTENT(%): PES/SPX 93/7",
-        "description": "PES/SPX 93/7",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1393,7 +1252,6 @@
             "tencel": 73.0
         },
         "composition_raw_text": "CONTENT(%): TENCEL/RE PES/SPX 73/24/3",
-        "description": "TENCEL/RE PES/SPX 73/24/3",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1404,7 +1262,6 @@
             "tencel": 33.0
         },
         "composition_raw_text": "Content: 62% Polyester 33% Lyocell 5% Spandex",
-        "description": "62% Polyester 33% Lyocell 5% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -1413,7 +1270,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1422,7 +1278,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1435,7 +1290,6 @@
             "tencel": 13.0
         },
         "composition_raw_text": "Content: 41% Polyester 23% Modal 18% Cotton 13% Lyocell 5% Spandex",
-        "description": "41% Polyester 23% Modal 18% Cotton 13% Lyocell 5% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -1444,7 +1298,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): PES 100",
-        "description": "PES 100",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1453,7 +1306,6 @@
             "nylon_6": 100.0
         },
         "composition_raw_text": "CONTENT(%): 100% N6",
-        "description": "100% N6",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1463,7 +1315,6 @@
             "tencel": 60.0
         },
         "composition_raw_text": "CONTENT(%): TENCEL/PES 60/40",
-        "description": "TENCEL/PES 60/40",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1473,7 +1324,6 @@
             "nylon_66": 84.0
         },
         "composition_raw_text": "CONTENT(%): RE-N66/SPX 84/16",
-        "description": "RE-N66/SPX 84/16",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1483,7 +1333,6 @@
             "elastane": 16.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/SPX 84/16",
-        "description": "RE-PES/SPX 84/16",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1493,7 +1342,6 @@
             "tencel": 33.0
         },
         "composition_raw_text": "Content: 67% Cotton 33% Lyocell",
-        "description": "67% Cotton 33% Lyocell",
         "composition_flag": "Content:"
     },
     {
@@ -1502,7 +1350,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/PES 50/50",
-        "description": "RE-PES/PES 50/50",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1512,7 +1359,6 @@
             "nylon_6": 93.0
         },
         "composition_raw_text": "CONTENT(%): N6/RE-N6/SPX 56/37/7",
-        "description": "N6/RE-N6/SPX 56/37/7",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1523,7 +1369,6 @@
             "nylon_66": 47.0
         },
         "composition_raw_text": "CONTENT(%): N66/N6/SPX 47/46/7",
-        "description": "N66/N6/SPX 47/46/7",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1532,7 +1377,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): 100% POLYESTER",
-        "description": "100% POLYESTER",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1541,7 +1385,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): 100% RE-PES",
-        "description": "100% RE-PES",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1551,7 +1394,6 @@
             "nylon_6": 91.0
         },
         "composition_raw_text": "CONTENT(%): N6/SPX 91/9",
-        "description": "N6/SPX 91/9",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1560,7 +1402,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): 100% POLYESTER",
-        "description": "100% POLYESTER",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1569,7 +1410,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1578,7 +1418,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100%Cotton",
-        "description": "100%Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1588,7 +1427,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CO-1%EA",
-        "description": "99%CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1597,7 +1435,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition 100%CO",
-        "description": "100%CO",
         "composition_flag": "Composition"
     },
     {
@@ -1607,7 +1444,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/PES/SPX 75/21/4",
-        "description": "RE-PES/PES/SPX 75/21/4",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1617,7 +1453,6 @@
             "nylon_6": 93.0
         },
         "composition_raw_text": "CONTENT(%): RE N6/N6/SPX 61/32/7",
-        "description": "RE N6/N6/SPX 61/32/7",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1627,7 +1462,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/SPX 92/8",
-        "description": "RE-PES/SPX 92/8",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1638,7 +1472,6 @@
             "modal": 20.0
         },
         "composition_raw_text": "Composition: Cotton 78% Modal 20% Elastane 2%",
-        "description": "Cotton 78% Modal 20% Elastane 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1648,7 +1481,6 @@
             "nylon_6": 77.0
         },
         "composition_raw_text": "CONTENT(%): N6/PES 77/23",
-        "description": "N6/PES 77/23",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1658,7 +1490,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "CONTENT(%): PES/SPX 96/4",
-        "description": "PES/SPX 96/4",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1668,7 +1499,6 @@
             "elastane": 6.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/SPX 94/6",
-        "description": "RE-PES/SPX 94/6",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1677,7 +1507,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT(%): PES/RE PES 81/19",
-        "description": "PES/RE PES 81/19",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1688,7 +1517,6 @@
             "tencel": 49.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 49% Lenzing \u2122 Viscose EV 49% Lycra (Elastane) 2%",
-        "description": "Lenzing \u2122 Lyocell 49% Lenzing \u2122 Viscose EV 49% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1698,7 +1526,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton P.Compak 97% Lycra (Elastane) 3%",
-        "description": "Cotton P.Compak 97% Lycra (Elastane) 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -1708,7 +1535,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 98% Elastane 2%",
-        "description": "Cotton 98% Elastane 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1718,7 +1544,6 @@
             "elastane": 9.0
         },
         "composition_raw_text": "CONTENT(%): RE-PES/SPX 91/9",
-        "description": "RE-PES/SPX 91/9",
         "composition_flag": "CONTENT(%):"
     },
     {
@@ -1727,7 +1552,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: Cotton 100%",
-        "description": "Cotton 100%",
         "composition_flag": "Composition:"
     },
     {
@@ -1737,7 +1561,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CO-1%EA",
-        "description": "99%CO-1%EA",
         "composition_flag": "Composition"
     },
     {
@@ -1747,7 +1570,6 @@
             "polyester": 70.0
         },
         "composition_raw_text": "Quality: 30% cotton 70% polyester recycled",
-        "description": "30% cotton 70% polyester recycled",
         "composition_flag": "Quality:"
     },
     {
@@ -1757,7 +1579,6 @@
             "modal": 50.0
         },
         "composition_raw_text": "Content: 50% Cotton 50% Modal",
-        "description": "50% Cotton 50% Modal",
         "composition_flag": "Content:"
     },
     {
@@ -1767,7 +1588,6 @@
             "polyester": 35.5
         },
         "composition_raw_text": "Content: 35.5% Cotton 35.5% Polyester 29% Pima",
-        "description": "35.5% Cotton 35.5% Polyester 29% Pima",
         "composition_flag": "Content:"
     },
     {
@@ -1776,7 +1596,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1786,7 +1605,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "Content: 50% Cotton 50% Polyester",
-        "description": "50% Cotton 50% Polyester",
         "composition_flag": "Content:"
     },
     {
@@ -1797,7 +1615,6 @@
             "modal": 48.0
         },
         "composition_raw_text": "Content: 48% Modal 46% Cotton 6% Spandex",
-        "description": "48% Modal 46% Cotton 6% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -1806,7 +1623,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -1815,7 +1631,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%N",
-        "description": "100%N",
         "composition_flag": "Shell"
     },
     {
@@ -1824,7 +1639,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%Nylon",
-        "description": "100%Nylon",
         "composition_flag": "Shell"
     },
     {
@@ -1833,7 +1647,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%Nylon",
-        "description": "100%Nylon",
         "composition_flag": "Shell"
     },
     {
@@ -1842,7 +1655,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Shell: 50%Recycled Poly 50%Poly",
-        "description": "50%Recycled Poly 50%Poly",
         "composition_flag": "Shell:"
     },
     {
@@ -1851,7 +1663,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "COMP: 100%Viscose",
-        "description": "100%Viscose",
         "composition_flag": "COMP:"
     },
     {
@@ -1860,7 +1671,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%N",
-        "description": "100%N",
         "composition_flag": "Shell"
     },
     {
@@ -1869,7 +1679,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%Nylon",
-        "description": "100%Nylon",
         "composition_flag": "Shell"
     },
     {
@@ -1878,7 +1687,6 @@
             "nylon": 100.0
         },
         "composition_raw_text": "Shell 100%Nylon",
-        "description": "100%Nylon",
         "composition_flag": "Shell"
     },
     {
@@ -1889,7 +1697,6 @@
             "tencel": 75.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 75% Cotton 23% Lycra (Elastane) 2%",
-        "description": "Lenzing \u2122 Lyocell 75% Cotton 23% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1899,7 +1706,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton 97% Elastane 3%",
-        "description": "Cotton 97% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -1909,7 +1715,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "COMP. 97%CO 3%EA",
-        "description": "97%CO 3%EA",
         "composition_flag": "COMP."
     },
     {
@@ -1920,7 +1725,6 @@
             "modal": 16.5
         },
         "composition_raw_text": "Content: 34% Polyester 33% Pima 16.5% Cotton 16.5% Modal",
-        "description": "34% Polyester 33% Pima 16.5% Cotton 16.5% Modal",
         "composition_flag": "Content:"
     },
     {
@@ -1931,7 +1735,6 @@
             "modal": 47.0
         },
         "composition_raw_text": "Content: 47% Pima 47% Modal 6% Spandex",
-        "description": "47% Pima 47% Modal 6% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -1940,7 +1743,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Quality"
     },
     {
@@ -1950,7 +1752,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton 97% Lycra (Elastane) 3%",
-        "description": "Cotton 97% Lycra (Elastane) 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -1962,7 +1763,6 @@
             "viscose": 49.0
         },
         "composition_raw_text": "Content: 49% Viscose 24% Cotton 24% Polyester 3% Spandex",
-        "description": "49% Viscose 24% Cotton 24% Polyester 3% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -1972,7 +1772,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 98% Lycra (Elastane) 2%",
-        "description": "Cotton 98% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -1981,7 +1780,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Content: 100% Recycled Polyester",
-        "description": "100% Recycled Polyester",
         "composition_flag": "Content:"
     },
     {
@@ -1991,7 +1789,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": "98% Cotton 2% Elastane",
         "composition_flag": "Composition:"
     },
     {
@@ -2001,7 +1798,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Elastane",
-        "description": "99% Cotton 1% Elastane",
         "composition_flag": "Composition:"
     },
     {
@@ -2011,7 +1807,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Elastane",
-        "description": "99% Cotton 1% Elastane",
         "composition_flag": "Composition:"
     },
     {
@@ -2020,7 +1815,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%CTN",
-        "description": "100%CTN",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2030,7 +1824,6 @@
             "tencel": 65.0
         },
         "composition_raw_text": "Composition: 65% Tencel 35% Cotton",
-        "description": "65% Tencel 35% Cotton",
         "composition_flag": "Composition:"
     },
     {
@@ -2040,7 +1833,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "Composition: 96% Cotton 4% Elastane",
-        "description": "96% Cotton 4% Elastane",
         "composition_flag": "Composition:"
     },
     {
@@ -2050,7 +1842,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98%Cotton 2%Spandex",
-        "description": "98%Cotton 2%Spandex",
         "composition_flag": "Composition:"
     },
     {
@@ -2061,7 +1852,6 @@
             "tencel": 25.0
         },
         "composition_raw_text": "COMPOSITION: %72COTT.%25TENCEL%3LYC",
-        "description": "%72COTT.%25TENCEL%3LYC",
         "composition_flag": "COMPOSITION:"
     },
     {
@@ -2070,7 +1860,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Quality"
     },
     {
@@ -2081,7 +1870,6 @@
             "viscose": 13.0
         },
         "composition_raw_text": "Content: 49% Polyester 38% Cotton 13% Viscose",
-        "description": "49% Polyester 38% Cotton 13% Viscose",
         "composition_flag": "Content:"
     },
     {
@@ -2092,7 +1880,6 @@
             "tencel": 64.0
         },
         "composition_raw_text": "Composition: Lenzing \u2122 Lyocell 64% Cotton 35% Lycra (Elastane) 1%",
-        "description": "Lenzing \u2122 Lyocell 64% Cotton 35% Lycra (Elastane) 1%",
         "composition_flag": "Composition:"
     },
     {
@@ -2104,7 +1891,6 @@
             "modal": 49.0
         },
         "composition_raw_text": "Content: 49% Modal 24.5% Polyester 24.5 Cotton 2% Spandex",
-        "description": "49% Modal 24.5% Polyester 24.5 Cotton 2% Spandex",
         "composition_flag": "Content:"
     },
     {
@@ -2114,7 +1900,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Composition: Cotton 97% Elastane 3%",
-        "description": "Cotton 97% Elastane 3%",
         "composition_flag": "Composition:"
     },
     {
@@ -2123,7 +1908,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Quality 100% Tanguis Cotton",
-        "description": "100% Tanguis Cotton",
         "composition_flag": "Quality"
     },
     {
@@ -2132,7 +1916,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -2142,7 +1925,6 @@
             "rayon": 20.0
         },
         "composition_raw_text": "Compostion: 80%COTTON 20%RAYON",
-        "description": "80%COTTON 20%RAYON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2151,7 +1933,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2162,7 +1943,6 @@
             "nylon": 21.0
         },
         "composition_raw_text": " 3% EL, 21% PA, 76% ORG CO",
-        "description": "3% EL, 21% PA, 76% ORG CO",
         "composition_flag": null
     },
     {
@@ -2172,7 +1952,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: Cotton 98% Lycra (Elastane) 2%",
-        "description": "Cotton 98% Lycra (Elastane) 2%",
         "composition_flag": "Composition:"
     },
     {
@@ -2181,7 +1960,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -2191,7 +1969,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98%Cotton 2%Spandex",
-        "description": "98%Cotton 2%Spandex",
         "composition_flag": "Composition:"
     },
     {
@@ -2200,7 +1977,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100% COTTON",
-        "description": "100% COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2210,7 +1986,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": " 3% EL, 97% PES",
-        "description": "3% EL, 97% PES",
         "composition_flag": null
     },
     {
@@ -2220,7 +1995,6 @@
             "nylon": 95.0
         },
         "composition_raw_text": " 5% EL, 33% PA, 62% RCYC PA",
-        "description": "5% EL, 33% PA, 62% RCYC PA",
         "composition_flag": null
     },
     {
@@ -2229,7 +2003,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Content: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Content:"
     },
     {
@@ -2239,7 +2012,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Elastane",
-        "description": "99% Cotton 1% Elastane",
         "composition_flag": "Composition:"
     },
     {
@@ -2248,7 +2020,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2258,7 +2029,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Compostion: 95%POLYESTER 5%SP",
-        "description": "95%POLYESTER 5%SP",
         "composition_flag": "Compostion:"
     },
     {
@@ -2268,7 +2038,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "Compostion: 97%POLYESTER 3%SP",
-        "description": "97%POLYESTER 3%SP",
         "composition_flag": "Compostion:"
     },
     {
@@ -2278,7 +2047,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Compostion: 98%POLYESTER 2%SP",
-        "description": "98%POLYESTER 2%SP",
         "composition_flag": "Compostion:"
     },
     {
@@ -2287,7 +2055,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100% COTTON",
-        "description": "100% COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2296,7 +2063,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100% COTTON",
-        "description": "100% COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2306,7 +2072,6 @@
             "polyester": 37.0
         },
         "composition_raw_text": "COMPOSITION CO%63/PES%37",
-        "description": "CO%63/PES%37",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2317,7 +2082,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "COMPOSITION CO%76/PES%22/EL%2",
-        "description": "CO%76/PES%22/EL%2",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2328,7 +2092,6 @@
             "viscose": 74.0
         },
         "composition_raw_text": "Comp: T/R/SP 23/74/3",
-        "description": "T/R/SP 23/74/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2337,7 +2100,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2347,7 +2109,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Compostion: 95%POLYESTER 5%SP",
-        "description": "95%POLYESTER 5%SP",
         "composition_flag": "Compostion:"
     },
     {
@@ -2356,7 +2117,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2366,7 +2126,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "COMPOSITION CO%98/EL%2",
-        "description": "CO%98/EL%2",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2378,7 +2137,6 @@
             "viscose": 68.0
         },
         "composition_raw_text": "Comp: N/T/R/SP 14/15/68/3",
-        "description": "N/T/R/SP 14/15/68/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2388,7 +2146,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "Comp. 92%Polyester 8%Spandex",
-        "description": "92%Polyester 8%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2400,7 +2157,6 @@
             "viscose": 75.0
         },
         "composition_raw_text": "Comp: N/T/R/SP 4/18/75/3",
-        "description": "N/T/R/SP 4/18/75/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2409,7 +2165,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "COMPOSITION CO%100",
-        "description": "CO%100",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2419,7 +2174,6 @@
             "polyester": 75.0
         },
         "composition_raw_text": "COMPOSITION PES%75/CO%25",
-        "description": "PES%75/CO%25",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2428,7 +2182,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2438,7 +2191,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "Comp. 90%Polyester 10%Spandex",
-        "description": "90%Polyester 10%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2447,7 +2199,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "COMPOSITION CO%100",
-        "description": "CO%100",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2456,7 +2207,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2465,7 +2215,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "OMPOSITION CO%100",
-        "description": "CO%100",
         "composition_flag": "OMPOSITION"
     },
     {
@@ -2475,7 +2224,6 @@
             "polyester": 45.0
         },
         "composition_raw_text": "COMPOSITION CO%55/PES%45",
-        "description": "CO%55/PES%45",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2484,7 +2232,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2493,7 +2240,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2502,7 +2248,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2512,7 +2257,6 @@
             "nylon": 8.0
         },
         "composition_raw_text": "Compostion: 92%POLY 8%NYLON",
-        "description": "92%POLY 8%NYLON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2522,7 +2266,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "COMPOSITION RECYCLE PES%72/PES%18/EL%10",
-        "description": "RECYCLE PES%72/PES%18/EL%10",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2531,7 +2274,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2540,7 +2282,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": "100% Cotton",
         "composition_flag": "Composition:"
     },
     {
@@ -2551,7 +2292,6 @@
             "tencel": 74.0
         },
         "composition_raw_text": "Composition: 74%Tencel 23%Cotton 3%Spx",
-        "description": "74%Tencel 23%Cotton 3%Spx",
         "composition_flag": "Composition:"
     },
     {
@@ -2561,7 +2301,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 99%CTN 1%LYCRA",
-        "description": "99%CTN 1%LYCRA",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2570,7 +2309,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Description: 100%cotton",
-        "description": "100%cotton",
         "composition_flag": "Description:"
     },
     {
@@ -2581,7 +2319,6 @@
             "rayon": 5.0
         },
         "composition_raw_text": "CONTENT: 94%CTN 5%RAYON 1%SPX",
-        "description": "94%CTN 5%RAYON 1%SPX",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2591,7 +2328,6 @@
             "tencel": 30.0
         },
         "composition_raw_text": "Composition: 70%CTN 30%LYOCELL",
-        "description": "70%CTN 30%LYOCELL",
         "composition_flag": "Composition:"
     },
     {
@@ -2601,7 +2337,6 @@
             "tencel": 30.0
         },
         "composition_raw_text": "CONTENT: 70%CTN 30%LYOCELL",
-        "description": "70%CTN 30%LYOCELL",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2614,7 +2349,6 @@
             "tencel": 19.0
         },
         "composition_raw_text": "CONTENT: 46%CTN 24%POLY 19%LYOCELL 10%RAYON 1%SPX",
-        "description": "46%CTN 24%POLY 19%LYOCELL 10%RAYON 1%SPX",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2624,7 +2358,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 99%CTN 1%LYCRA",
-        "description": "99%CTN 1%LYCRA",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2633,7 +2366,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100%CTN",
-        "description": "100%CTN",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2643,7 +2375,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 99%CTN 1%SPX",
-        "description": "99%CTN 1%SPX",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2652,7 +2383,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton  ",
-        "description": "100% Cotton  ",
         "composition_flag": "Composition:"
     },
     {
@@ -2662,7 +2392,6 @@
             "polyester": 12.0
         },
         "composition_raw_text": "Composition C88% Pe12%",
-        "description": "C88% Pe12%",
         "composition_flag": "Composition"
     },
     {
@@ -2672,7 +2401,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "Comp. 92%Polyester 8%Spandex",
-        "description": "92%Polyester 8%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2683,7 +2411,6 @@
             "nylon": 41.0
         },
         "composition_raw_text": "CONTENT: POLY/NYLON/SPANDEX = 45%/41%/14%",
-        "description": "POLY/NYLON/SPANDEX = 45%/41%/14%",
         "composition_flag": "CONTENT:"
     },
     {
@@ -2692,7 +2419,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Compostion: 100%POLYESTER",
-        "description": "100%POLYESTER",
         "composition_flag": "Compostion:"
     },
     {
@@ -2702,7 +2428,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "Comp. 92% Polyester 8% Spandex",
-        "description": "92% Polyester 8% Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2712,7 +2437,6 @@
             "elastane": 12.0
         },
         "composition_raw_text": "Comp. 88%Polyester 12%Spandex",
-        "description": "88%Polyester 12%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2722,7 +2446,6 @@
             "elastane": 12.0
         },
         "composition_raw_text": "Comp. 88%Polyester 12%Spandex",
-        "description": "88%Polyester 12%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2732,7 +2455,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "Comp. 90%Polyester 10%Spandex",
-        "description": "90%Polyester 10%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2742,7 +2464,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "Comp. 92%Polyester 8%Spandex",
-        "description": "92%Polyester 8%Spandex",
         "composition_flag": "Comp."
     },
     {
@@ -2753,7 +2474,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "COMPOSITION CO%71/PES%27/EL%2",
-        "description": "CO%71/PES%27/EL%2",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2763,7 +2483,6 @@
             "rayon": 44.0
         },
         "composition_raw_text": "COMPOSITION CO%56/CV%44",
-        "description": "CO%56/CV%44",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2773,7 +2492,6 @@
             "polyester": 32.0
         },
         "composition_raw_text": "COMPOSITION CO%68/PES%32",
-        "description": "CO%68/PES%32",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2784,7 +2502,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "COMPOSITION CO%54/PES%45/EL%1",
-        "description": "CO%54/PES%45/EL%1",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2794,7 +2511,6 @@
             "viscose": 44.0
         },
         "composition_raw_text": "COMPOSITION CO%56/CV%44",
-        "description": "CO%56/CV%44",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2804,7 +2520,6 @@
             "viscose": 55.0
         },
         "composition_raw_text": "Componet: 55%R45%P",
-        "description": "55%R45%P",
         "composition_flag": "Componet:"
     },
     {
@@ -2815,7 +2530,6 @@
             "viscose": 75.0
         },
         "composition_raw_text": "Comp: T/R/SP 22/75/3",
-        "description": "T/R/SP 22/75/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2825,7 +2539,6 @@
             "viscose": 55.0
         },
         "composition_raw_text": "Componet: 55%R45%P",
-        "description": "55%R45%P",
         "composition_flag": "Componet:"
     },
     {
@@ -2837,7 +2550,6 @@
             "viscose": 38.0
         },
         "composition_raw_text": "Comp: N/T/R/SP 10/49/38/3",
-        "description": "N/T/R/SP 10/49/38/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2848,7 +2560,6 @@
             "viscose": 73.0
         },
         "composition_raw_text": "Comp: N/R/SP 24/73/3",
-        "description": "N/R/SP 24/73/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2857,7 +2568,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "COMPOSITION PES%100",
-        "description": "PES%100",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2868,7 +2578,6 @@
             "viscose": 28.0
         },
         "composition_raw_text": "Componet: 67%P 28%R 5%N",
-        "description": "67%P 28%R 5%N",
         "composition_flag": "Componet:"
     },
     {
@@ -2880,7 +2589,6 @@
             "tencel": 11.0
         },
         "composition_raw_text": "Comp: N/T/R/SP 11/11/75/3",
-        "description": "N/T/R/SP 11/11/75/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2891,7 +2599,6 @@
             "viscose": 73.0
         },
         "composition_raw_text": "Comp: N/R/SP 24/73/3",
-        "description": "N/R/SP 24/73/3",
         "composition_flag": "Comp:"
     },
     {
@@ -2900,7 +2607,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "Composition:"
     },
     {
@@ -2910,7 +2616,6 @@
             "rayon": 88.0
         },
         "composition_raw_text": "COMPOSITION CV%88/PA%12",
-        "description": "CV%88/PA%12",
         "composition_flag": "COMPOSITION"
     },
     {
@@ -2920,7 +2625,6 @@
             "viscose": 66.0
         },
         "composition_raw_text": "Componet: 34%P 66%R",
-        "description": "34%P 66%R",
         "composition_flag": "Componet:"
     },
     {
@@ -2929,7 +2633,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Compostion: 100%COTTON",
-        "description": "100%COTTON",
         "composition_flag": "Compostion:"
     },
     {
@@ -2938,7 +2641,6 @@
             "cupro": 100.0
         },
         "composition_raw_text": "100% CUPRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2947,7 +2649,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2956,7 +2657,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2966,7 +2666,6 @@
             "elastane": 10.0
         },
         "composition_raw_text": "%90 PES,%10 ELASTH.",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2975,7 +2674,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2984,7 +2682,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -2993,7 +2690,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3002,7 +2698,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3011,7 +2706,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3020,7 +2714,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3029,7 +2722,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3038,7 +2730,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3047,7 +2738,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3056,7 +2746,6 @@
             "rayon": 100.0
         },
         "composition_raw_text": "%100 RAYON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3066,7 +2755,6 @@
             "viscose": 40.0
         },
         "composition_raw_text": "60% POLYESTER 40% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3075,7 +2763,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3084,7 +2771,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3093,7 +2779,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3102,7 +2787,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3111,7 +2795,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3120,7 +2803,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3129,7 +2811,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 FSC VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3138,7 +2819,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3147,7 +2827,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3156,7 +2835,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3166,7 +2844,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3175,7 +2852,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3186,7 +2862,6 @@
             "modal": 31.0
         },
         "composition_raw_text": "64% Coton, 31% Modal, 5% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3195,7 +2870,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3204,7 +2878,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton gaz\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3214,7 +2887,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3223,7 +2895,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3233,7 +2904,6 @@
             "polyester": 35.0
         },
         "composition_raw_text": "65% Coton GOTS BIO, 35% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3243,7 +2913,6 @@
             "polyester": 73.0
         },
         "composition_raw_text": "27% Coton Recycl\u00e9, 41% POLYESTER RECYCLE, 32% Polyest",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3253,7 +2922,6 @@
             "nylon": 17.0
         },
         "composition_raw_text": "83% Coton BIO (Organique), 17% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3262,7 +2930,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3272,7 +2939,6 @@
             "tencel": 67.0
         },
         "composition_raw_text": "67% Lyocell LF, 33% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3281,7 +2947,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3291,7 +2956,6 @@
             "modal": 92.0
         },
         "composition_raw_text": "92% Modal, 8% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3300,7 +2964,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton OE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3309,7 +2972,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3319,7 +2981,6 @@
             "elastane": 8.0
         },
         "composition_raw_text": "92% Coton Peign\u00e9, 8% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3329,7 +2990,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "95% Coton Peign\u00e9, 5% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3338,7 +2998,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3347,7 +3006,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3356,7 +3014,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3365,7 +3022,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3374,7 +3030,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3383,7 +3038,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3394,7 +3048,6 @@
             "modal": 47.0
         },
         "composition_raw_text": "47% Coton, 47% Modal, 6% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3403,7 +3056,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Supreme green cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3413,7 +3065,6 @@
             "viscose": 94.0
         },
         "composition_raw_text": "94% VISCOSE ECO VERO AIRJET, 6% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3422,7 +3073,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3431,7 +3081,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3440,7 +3089,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3449,7 +3097,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Ice Cotton GOTS Bio",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3458,7 +3105,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3468,7 +3114,6 @@
             "polyester": 43.0
         },
         "composition_raw_text": "29% Coton Recycl\u00e9, 28% Coton, 43% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3477,7 +3122,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "65% Coton Recycl\u00e9, 35% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3487,7 +3131,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% Coton, 3% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3496,7 +3139,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3505,7 +3147,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3515,7 +3156,6 @@
             "nylon": 22.0
         },
         "composition_raw_text": "78% Coton, 22% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3525,7 +3165,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton Peign\u00e9, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3534,7 +3173,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3544,7 +3182,6 @@
             "polyester": 25.0
         },
         "composition_raw_text": "75% Coton Peign\u00e9, 25% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3553,7 +3190,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3562,7 +3198,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Bio chin\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3572,7 +3207,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton BIO (Organique), 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3582,7 +3216,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3591,7 +3224,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTON GOTS BIO GAZE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3600,7 +3232,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3609,7 +3240,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3618,7 +3248,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3627,7 +3256,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3636,7 +3264,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3646,7 +3273,6 @@
             "micromodal": 92.0
         },
         "composition_raw_text": "92% Micro Modal ring, 8% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3655,7 +3281,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3664,7 +3289,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3674,7 +3298,6 @@
             "elastane": 18.0
         },
         "composition_raw_text": "82% Coton 18% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3683,7 +3306,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3692,7 +3314,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3701,7 +3322,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3710,7 +3330,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3719,7 +3338,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3728,7 +3346,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3737,7 +3354,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3746,7 +3362,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3756,7 +3371,6 @@
             "polyester": 20.0
         },
         "composition_raw_text": "80% Coton, 20% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3766,7 +3380,6 @@
             "polyester": 20.0
         },
         "composition_raw_text": "80% Coton, 20% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3777,7 +3390,6 @@
             "nylon": 12.0
         },
         "composition_raw_text": "76% Coton, 12% Polyester, 12% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3788,7 +3400,6 @@
             "viscose": 23.0
         },
         "composition_raw_text": "71% Coton, 23% Viscose, 6% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3797,7 +3408,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3806,7 +3416,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3816,7 +3425,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "99% GOTS Coton BIO et teinture v\u00e9g\u00e9tale, 1% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3826,7 +3434,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3836,7 +3443,6 @@
             "polyester": 57.0
         },
         "composition_raw_text": "43% Coton GOTS BIO, 57% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3845,7 +3451,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3855,7 +3460,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3866,7 +3470,6 @@
             "tencel": 62.0
         },
         "composition_raw_text": "31% COTON SIRO Peign\u00e9, 62% Tencel LF, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3876,7 +3479,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "98% Coton Peign\u00e9, 2% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3886,7 +3488,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% Coton GOTS BIO, 3% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3895,7 +3496,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "65% Coton Recycl\u00e9, 35% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3905,7 +3505,6 @@
             "nylon": 14.0
         },
         "composition_raw_text": "86% Coton GOTS BIO, 14% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3915,7 +3514,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% Coton GOTS BIO, 3% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3925,7 +3523,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% Coton BIO (Organique), 3% Elasthanne ELASPAN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3934,7 +3531,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS compact",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3943,7 +3539,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3952,7 +3547,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton cr\u00e8pe",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3961,7 +3555,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Merceris\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3971,7 +3564,6 @@
             "tencel": 40.0
         },
         "composition_raw_text": "60% Coton, 40% REFIBRA Lyocell compact",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3982,7 +3574,6 @@
             "nylon": 9.0
         },
         "composition_raw_text": "89% Coton, 9% Polyamide, 2% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -3992,7 +3583,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton, 50% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4002,7 +3592,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton, 50% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4012,7 +3601,6 @@
             "tencel": 40.0
         },
         "composition_raw_text": "60% Coton, 40% REFIBRA Lyocell compact",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4021,7 +3609,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4030,7 +3617,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4039,7 +3625,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4048,7 +3633,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "65% Coton recycl\u00e9 ECOTECT, 35% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4058,7 +3642,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4068,7 +3651,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4078,7 +3660,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton BIO (Organique), 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4088,7 +3669,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4098,7 +3678,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4107,7 +3686,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4116,7 +3694,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4126,7 +3703,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4137,7 +3713,6 @@
             "modal": 48.0
         },
         "composition_raw_text": "43% Coton Peign\u00e9, 48% Modal, 9% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4147,7 +3722,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4158,7 +3732,6 @@
             "tencel": 48.0
         },
         "composition_raw_text": "48% Tencel, 20% Coton, 32% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4168,7 +3741,6 @@
             "polyester": 54.0
         },
         "composition_raw_text": "54% Polyester, 46% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4177,7 +3749,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4186,7 +3757,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4195,7 +3765,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4204,7 +3773,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4214,7 +3782,6 @@
             "tencel": 75.0
         },
         "composition_raw_text": "25% Polyester recycl\u00e9, 75% Tencel LF",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4224,7 +3791,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton Peign\u00e9, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4234,7 +3800,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4245,7 +3810,6 @@
             "viscose": 20.0
         },
         "composition_raw_text": "75% Coton, 20% Viscose, 5% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4255,7 +3819,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "99% Coton, 1% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4264,7 +3827,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4273,7 +3835,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4282,7 +3843,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% GOTS Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4291,7 +3851,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4300,7 +3859,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4310,7 +3868,6 @@
             "polyester": 11.0
         },
         "composition_raw_text": "89% Coton Peign\u00e9, 11% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4319,7 +3876,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4329,7 +3885,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4338,7 +3893,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4348,7 +3902,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "95% Coton, 5% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4357,7 +3910,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4367,7 +3919,6 @@
             "polyester": 55.0
         },
         "composition_raw_text": "55% POLYESTER RECYCLE, 45% Coton Recycl\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4377,7 +3928,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton Peign\u00e9, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4386,7 +3936,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4395,7 +3944,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4405,7 +3953,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% Coton, 3% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4414,7 +3961,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4423,7 +3969,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4432,7 +3977,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton OE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4442,7 +3986,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton Peign\u00e9, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4452,7 +3995,6 @@
             "nylon": 45.0
         },
         "composition_raw_text": "55% Coton Peign\u00e9, 45% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4461,7 +4003,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4471,7 +4012,6 @@
             "polyester": 55.0
         },
         "composition_raw_text": "55% POLYESTER RECYCLE, 45% Coto Recycl\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4480,7 +4020,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4489,7 +4028,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS compact",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4499,7 +4037,6 @@
             "polyester": 12.0
         },
         "composition_raw_text": "88% Coton, 12% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4509,7 +4046,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4519,7 +4055,6 @@
             "polyester": 25.0
         },
         "composition_raw_text": "75% Coton, 25% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4530,7 +4065,6 @@
             "nylon": 5.0
         },
         "composition_raw_text": "90% Coton, 5% Polyester, 5% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4541,7 +4075,6 @@
             "nylon": 5.0
         },
         "composition_raw_text": "90% Coton, 5% Polyester, 5% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4551,7 +4084,6 @@
             "nylon": 17.0
         },
         "composition_raw_text": "83% Coton, 17% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4561,7 +4093,6 @@
             "nylon": 25.0
         },
         "composition_raw_text": "75% Coton Peign\u00e9, 25% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4570,7 +4101,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4580,7 +4110,6 @@
             "tencel": 94.0
         },
         "composition_raw_text": "94% Tencel, 6% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4589,7 +4118,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4599,7 +4127,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4608,7 +4135,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4618,7 +4144,6 @@
             "polyester": 35.0
         },
         "composition_raw_text": "65% Coton GOTS BIO, 35% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4627,7 +4152,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4636,7 +4160,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4645,7 +4168,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4654,7 +4176,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4663,7 +4184,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS compact",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4673,7 +4193,6 @@
             "elastane": 4.0
         },
         "composition_raw_text": "96% Coton, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4682,7 +4201,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4692,7 +4210,6 @@
             "polyester": 50.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% POLYESTER RECYCLE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4701,7 +4218,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4710,7 +4226,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4720,7 +4235,6 @@
             "polyester": 73.0
         },
         "composition_raw_text": "27% Coton Recycl\u00e9, 41% POLYESTER RECYCLE, 32% Polyest",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4729,7 +4243,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% GOTS Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4739,7 +4252,6 @@
             "elastane": 7.0
         },
         "composition_raw_text": "93% Coton GOTS BIO, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4748,7 +4260,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "60% Coton Recycl\u00e9, 40% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4757,7 +4268,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO (Organique)",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4766,7 +4276,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTON GOTS BIO GAZE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4775,7 +4284,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4784,7 +4292,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "50% Coton Recycl\u00e9, 50% Coton GOTS BIO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4793,7 +4300,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4802,7 +4308,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4812,7 +4317,6 @@
             "nylon": 54.0
         },
         "composition_raw_text": "46% Coton Peign\u00e9, 54% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4822,7 +4326,6 @@
             "nylon": 18.0
         },
         "composition_raw_text": "82% Coton, 18% Polyamide",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4832,7 +4335,6 @@
             "polyester": 4.0
         },
         "composition_raw_text": "96% Coton, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4841,7 +4343,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% GOTS Coton BIO et teinture v\u00e9g\u00e9tale",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4852,7 +4353,6 @@
             "viscose": 80.0
         },
         "composition_raw_text": "80% Viscose, 16% Polyamide, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4861,7 +4361,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4872,7 +4371,6 @@
             "viscose": 37.0
         },
         "composition_raw_text": "62% Coton, 37% Viscose, 1% Elastanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4882,7 +4380,6 @@
             "polyester": 7.0
         },
         "composition_raw_text": "93% Coton Peign\u00e9, 7% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4892,7 +4389,6 @@
             "polyester": 4.0
         },
         "composition_raw_text": "96% Coton Peign\u00e9, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4902,7 +4398,6 @@
             "polyester": 30.0
         },
         "composition_raw_text": "70% Coton Peign\u00e9, 30% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4912,7 +4407,6 @@
             "tencel": 64.0
         },
         "composition_raw_text": "36% Coton, 64% Tencel",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4921,7 +4415,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4930,7 +4423,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4939,7 +4431,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4948,7 +4439,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4957,7 +4447,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4966,7 +4455,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4975,7 +4463,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4984,7 +4471,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -4994,7 +4480,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "98% Coton Peign\u00e9, 2% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5003,7 +4488,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5014,7 +4498,6 @@
             "tencel": 64.0
         },
         "composition_raw_text": "64% Tencel, 32% Coton, 4% Elasthanne",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5023,7 +4506,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5032,7 +4514,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% Coton Peign\u00e9",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5041,7 +4522,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5050,7 +4530,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5059,7 +4538,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5068,7 +4546,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5077,7 +4554,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5086,7 +4562,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5095,7 +4570,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5104,7 +4578,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5113,7 +4586,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5122,7 +4594,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5131,7 +4602,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5140,7 +4610,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5149,7 +4618,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5158,7 +4626,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5168,7 +4635,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% COTTON 3% ELASTHANE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5177,7 +4643,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "%100 COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5186,7 +4651,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5195,7 +4659,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5204,7 +4667,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5213,7 +4675,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 FSC VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5222,7 +4683,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5231,7 +4691,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5240,7 +4699,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 FSC VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5249,7 +4707,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "%100 COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5258,7 +4715,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "%100 COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5267,7 +4723,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5276,7 +4731,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5285,7 +4739,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5294,7 +4747,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5303,7 +4755,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5313,7 +4764,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% COTTON 3% ELASTHANE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5323,7 +4773,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "%97BCI COTTON, %3 ELASTH",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5332,7 +4781,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5341,7 +4789,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5350,7 +4797,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5359,7 +4805,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5369,7 +4814,6 @@
             "viscose": 95.0
         },
         "composition_raw_text": "%95 VISKON EKOVERA, %5 ELASTH",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5378,7 +4822,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5387,7 +4830,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5396,7 +4838,6 @@
             "rayon": 100.0
         },
         "composition_raw_text": "%100 RAYON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5405,7 +4846,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5414,7 +4854,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5423,7 +4862,6 @@
             "rayon": 100.0
         },
         "composition_raw_text": "%100 RAYON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5432,7 +4870,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5441,7 +4878,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5450,7 +4886,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5459,7 +4894,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5468,7 +4902,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5477,7 +4910,6 @@
             "rayon": 100.0
         },
         "composition_raw_text": "%100 RAYON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5486,7 +4918,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5495,7 +4926,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5504,7 +4934,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5513,7 +4942,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "100% VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5522,7 +4950,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5531,7 +4958,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5540,7 +4966,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5549,7 +4974,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5558,7 +4982,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5567,7 +4990,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5576,7 +4998,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5585,7 +5006,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5595,7 +5015,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "97% COTTON 3% ELASTHANE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5604,7 +5023,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5613,7 +5031,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5622,7 +5039,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5631,7 +5047,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5640,7 +5055,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5649,7 +5063,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5658,7 +5071,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5667,7 +5079,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5676,7 +5087,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "%100 POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5686,7 +5096,6 @@
             "viscose": 95.0
         },
         "composition_raw_text": "%95 VISCOSE ECOVERA, %5 ELASTH",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5695,7 +5104,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5704,7 +5112,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "%100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5713,7 +5120,6 @@
             "viscose": 100.0
         },
         "composition_raw_text": "80/1 %100 VISCOSE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5722,7 +5128,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "48% recycle polyester/52% polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5731,7 +5136,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Composition: 100% PES FR",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5740,7 +5144,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5751,7 +5154,6 @@
             "viscose": 38.0
         },
         "composition_raw_text": "Content 61% COTTON 38% VISCOSE 1% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5761,7 +5163,6 @@
             "viscose": 12.0
         },
         "composition_raw_text": "Contents: 88%PL;12%VI",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5771,7 +5172,6 @@
             "viscose": 83.0
         },
         "composition_raw_text": "Contents: 83%V;17%P",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5780,7 +5180,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5790,7 +5189,6 @@
             "viscose": 25.0
         },
         "composition_raw_text": "Contents: 75% POLYESTER, 25% VISCOSE RAYON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5799,7 +5197,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% PL",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5810,7 +5207,6 @@
             "rayon": 57.0
         },
         "composition_raw_text": "57% Rayon 40% Cotton 3% Polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5821,7 +5217,6 @@
             "viscose": 30.0
         },
         "composition_raw_text": "CONTENTS: 60%C;30%V;10%POLY",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5832,7 +5227,6 @@
             "viscose": 30.0
         },
         "composition_raw_text": "CONTENTS: 60%C;30%V;10%POLY",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5842,7 +5236,6 @@
             "viscose": 75.0
         },
         "composition_raw_text": "75% viscose 25% polyester",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5853,7 +5246,6 @@
             "viscose": 30.0
         },
         "composition_raw_text": "Contents: 51%P;30%V;19%C",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5864,7 +5256,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "CONTENT: 87%CTN 11%RECYCLE POLY 2% LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5874,7 +5265,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5884,7 +5274,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5894,7 +5283,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5904,7 +5292,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5914,7 +5301,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5925,7 +5311,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 91% Cotton 8% Poly 1% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5934,7 +5319,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5943,7 +5327,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5952,7 +5335,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% ctn",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5961,7 +5343,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5970,7 +5351,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5979,7 +5359,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -5991,7 +5370,6 @@
             "rayon": 8.0
         },
         "composition_raw_text": "Composition: 73%CTN 18%POLY 8%RAYON 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6002,7 +5380,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "CONTENT: 93%CTN 5%POLY 2% LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6013,7 +5390,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT 66%CTN 33%POLY 1% SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6024,7 +5400,6 @@
             "tencel": 26.0
         },
         "composition_raw_text": "Composition 73% Cotton 26% Tencel 1% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6034,7 +5409,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6044,7 +5418,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99% Cotton 1% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6054,7 +5427,6 @@
             "elastane": 3.0
         },
         "composition_raw_text": "CONTENT: 77%CTN 20% RECYCLE COTTON 3%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6066,7 +5438,6 @@
             "rayon": 11.0
         },
         "composition_raw_text": "CONTENT: 62%CTN 26%POLY 11%RAYON 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6076,7 +5447,6 @@
             "tencel": 3.0
         },
         "composition_raw_text": "CONTENT: 77%CTN 20% RECYCLE COTTON 3%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6086,7 +5456,6 @@
             "tencel": 3.0
         },
         "composition_raw_text": "CONTENT: 77%CTN 20% RECYCLE COTTON 3%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6096,7 +5465,6 @@
             "tencel": 3.0
         },
         "composition_raw_text": "CONTENT: 77%CTN 20% RECYCLE COTTON 3%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6108,7 +5476,6 @@
             "rayon": 11.0
         },
         "composition_raw_text": "Composition 62%CTN 26%POLY 11%RAYON 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6117,7 +5484,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition 100%CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6126,7 +5492,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6138,7 +5503,6 @@
             "rayon": 5.0
         },
         "composition_raw_text": "Composition 49%CTN 45%POLY 5%RAYON 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6150,7 +5514,6 @@
             "rayon": 11.0
         },
         "composition_raw_text": "CONTENT: 62%CTN 26%POLY 11%RAYON 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6160,7 +5523,6 @@
             "elastane": 5.0
         },
         "composition_raw_text": "Composition 95%CTN 5%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6169,7 +5531,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 90%CTN 10%REYCLE COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6179,7 +5540,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Fiber Content 98% Cotton, 2% Lycra",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6188,7 +5548,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6197,7 +5556,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6207,7 +5565,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition 99%CTN 1%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6216,7 +5573,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6227,7 +5583,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 70%CTN 20%RECYCLE COTTON 8%RECYCLE POLY 1%POLY 1%SPX",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6238,7 +5593,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 89%CTN 10%POLY 1%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6247,7 +5601,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6258,7 +5611,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 90%CTN 9%POLY 1%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6270,7 +5622,6 @@
             "rayon": 10.0
         },
         "composition_raw_text": "CONTENT: 67%CTN 22%POLY 10%RAYON 1%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6279,7 +5630,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "CONTENT: 100% CTN",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6289,7 +5639,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "CONTENT: 99%CTN 1%LYCRA",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6299,7 +5648,6 @@
             "viscose": 89.0
         },
         "composition_raw_text": "OMPOSITION CV%89/PA%11",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6309,7 +5657,6 @@
             "viscose": 80.0
         },
         "composition_raw_text": "COMPOSITION CV%80/CO%20",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6319,7 +5666,6 @@
             "viscose": 61.0
         },
         "composition_raw_text": "COMPOSITION CV%61/RECYCLE PES%39",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6328,7 +5674,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENTS: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6338,7 +5683,6 @@
             "polyester": 62.0
         },
         "composition_raw_text": "CONTENTS: 62% POLYESTER, 38% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6347,7 +5691,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6356,7 +5699,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6365,7 +5707,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6376,7 +5717,6 @@
             "viscose": 50.0
         },
         "composition_raw_text": "50% VISCOSE, 25% COTTON, 25% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6386,7 +5726,6 @@
             "viscose": 84.0
         },
         "composition_raw_text": "CONTENT 84%CV, 16%PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6395,7 +5734,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6405,7 +5743,6 @@
             "polyester": 57.0
         },
         "composition_raw_text": "Contents: 57% POLYESTER, 43% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6414,7 +5751,14 @@
             "polyester": 100.0
         },
         "composition_raw_text": "100% POLYESTER",
-        "description": NaN,
+        "composition_flag": null
+    },
+    {
+        "sample_id": 8118.0,
+        "composition": {
+            "polyester": 100.0
+        },
+        "composition_raw_text": "100% POLYESTER",
         "composition_flag": null
     },
     {
@@ -6423,7 +5767,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENTS 100%PE",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6432,7 +5775,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Content 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6441,7 +5783,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6451,7 +5792,6 @@
             "polyester": 80.0
         },
         "composition_raw_text": "Contents: 80% POLYESTER, 20% COTTOn",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6461,7 +5801,6 @@
             "viscose": 12.0
         },
         "composition_raw_text": "Contents: 88% Polyester, 12% Viscose",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6470,7 +5809,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6479,7 +5817,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6489,7 +5826,6 @@
             "polyester": 91.0
         },
         "composition_raw_text": "Contents: 91% POLYESTER 9% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6498,7 +5834,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "CONTENT 100%PES",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6507,7 +5842,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6517,7 +5851,6 @@
             "polyester": 73.0
         },
         "composition_raw_text": "73% Polyester 27% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6528,7 +5861,6 @@
             "viscose": 30.0
         },
         "composition_raw_text": "CONTENTS: 60%C;30%V;10%POLY",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6539,7 +5871,6 @@
             "viscose": 50.0
         },
         "composition_raw_text": "50% VISCOSE, 25% COTTON, 25% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6548,7 +5879,6 @@
             "polyester": 100.0
         },
         "composition_raw_text": "Contents: 100% POLYESTER",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6558,7 +5888,6 @@
             "polyester": 79.0
         },
         "composition_raw_text": "Contents: 79% RECYCLED POLYESTER, 21% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6567,7 +5896,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "100% COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6576,7 +5904,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Contents: 100%COTTON",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6586,7 +5913,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99%Cotton 1% Spandex",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6595,7 +5921,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6605,7 +5930,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Spandex",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6615,7 +5939,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% Cotton 1% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6624,7 +5947,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6634,7 +5956,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Spandex",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6644,7 +5965,6 @@
             "elastane": 1.0
         },
         "composition_raw_text": "Composition: 99% cotton 1% spandex",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6656,7 +5976,6 @@
             "rayon": 4.5
         },
         "composition_raw_text": "Composition: 60% Cotton 33.5% Polyester 4.5% Rayon 2% Elasta",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6666,7 +5985,6 @@
             "elastane": 2.0
         },
         "composition_raw_text": "Composition: 98% Cotton 2% Elastane",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6675,7 +5993,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Composition: 100% Cotton",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6684,7 +6001,6 @@
             "cotton": 100.0
         },
         "composition_raw_text": "Structure Jersey 100%CO",
-        "description": NaN,
         "composition_flag": null
     },
     {
@@ -6695,7 +6011,6 @@
             "viscose": 47.0
         },
         "composition_raw_text": "COMPOSITION CO%50/CV%47/EL%3",
-        "description": NaN,
         "composition_flag": null
     }
 ]

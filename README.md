@@ -2,3 +2,4 @@
 Github repo for Fine-Tuning DONUT on self collected dataset
 
 
+![Model Architecture](model_architecture.png)

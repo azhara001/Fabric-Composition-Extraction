@@ -10,7 +10,7 @@ Github repo for Fine-Tuning DONUT on self collected dataset
 - To fine-tune the model on your own dataset, run the following:
 [Fine_Tuning_DONUT.ipynb](https://github.com/azhara001/Fabric-Composition-Extraction/blob/main/Fine_Tuning_DONUT.ipynb)
 
-  - Note: This notebook draws major inspiration from (Fine_tune_Donut_on_a_custom_dataset_(CORD)_with_PyTorch_Lightning.ipynb)[https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Donut]
+  - Note: This notebook draws major inspiration from [https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Donut]
 
 - To test our trained model on a custom image from the wild using our own fine-tuned model, run the following:
 [Inference_Script_Robustness.ipynb](https://github.com/azhara001/Fabric-Composition-Extraction/blob/main/Inference%20Script_Robustness.ipynb)

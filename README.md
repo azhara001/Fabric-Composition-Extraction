@@ -18,4 +18,4 @@ Github repo for Fine-Tuning DONUT on self collected dataset
 - Finally, to sneak a glimpse of our model architecture and backbone, refer to the below image:
 ![Model Architecture](model_architecture.png)
 
-- For feedback, questions, or comments or in case of spotting an error, please send an email: [Contact Me](mailto:abdullah_azhar@berkeley.edu)
+- For feedback, questions, or comments or in case of spotting an error, please send an email: [abdullah_azhar@berkeley.edu](mailto:abdullah_azhar@berkeley.edu)

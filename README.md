@@ -15,4 +15,7 @@ Github repo for Fine-Tuning DONUT on self collected dataset
 - To test our trained model on a custom image from the wild using our own fine-tuned model, run the following:
 [Inference_Script_Robustness.ipynb](https://github.com/azhara001/Fabric-Composition-Extraction/blob/main/Inference%20Script_Robustness.ipynb)
 
+- Finally, to sneak a glimpse of our model architecture and backbone, refer to the below image:
 ![Model Architecture](model_architecture.png)
+
+- For feedback, questions, or comments or in case of spotting an error, please send an email: [Contact Me](mailto:abdullah_azhar@berkeley.edu)

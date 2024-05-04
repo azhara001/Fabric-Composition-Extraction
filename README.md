@@ -19,3 +19,8 @@ Github repo for Fine-Tuning DONUT on self collected dataset
 ![Model Architecture](model_architecture.png)
 
 - For feedback, questions, or comments or in case of spotting an error, please send an email: [abdullah_azhar@berkeley.edu](mailto:abdullah_azhar@berkeley.edu)
+
+
+Relevant Repositories for the project:
+1. [https://github.com/isirollan/capstone-app](https://github.com/isirollan/capstone-app) for the front-end of the web-app
+2. [https://github.com/erinengle76/capstone-running-inference](https://github.com/erinengle76/capstone-running-inference) for deploying the model on AWS SageMaker
